@@ -59,6 +59,7 @@ public:
         return true;
     }
 };
+
 /*
 Время: O(n)
 память: O(n)
