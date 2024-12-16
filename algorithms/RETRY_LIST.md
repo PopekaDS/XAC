@@ -6,3 +6,4 @@
 5. Поиск оси симметрии - Не смог сам решить
 6. Backspace String Compare - Туго пошло
 7. Subarray Sum Equals K - Не смог сам решить
+8. Minimum Difference Between Highest and Lowest of K Scores - Не смог сам решить
